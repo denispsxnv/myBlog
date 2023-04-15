@@ -1,0 +1,22 @@
+.contein {
+    width: 90%;
+    margin: auto;
+}
+
+.title {
+    padding: 100px 50px;
+    font-size: 44px;
+    line-height: 74px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.descr {
+    margin-left: 70%;
+    font-style: normal;
+    font-size: 28px;
+    display: flex;  
+    align-items: center;
+    text-align: center;
+}
