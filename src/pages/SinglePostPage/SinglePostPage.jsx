@@ -25,7 +25,7 @@ const SinglePostPage = (props) => {
     //     }
     //     fetchPost()
     // }, [id]);
-
+    
     const date = new Date(post.createdAt)
     const options = { day: "numeric", month: "short", year: "numeric" }
     const formDate = date.toLocaleDateString("Ru", options)
